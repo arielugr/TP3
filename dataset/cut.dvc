@@ -1,0 +1,6 @@
+outs:
+- md5: 4aeed8f04aceee5d7959da4b7e13ce66.dir
+  size: 5183896
+  nfiles: 340
+  hash: md5
+  path: cut
